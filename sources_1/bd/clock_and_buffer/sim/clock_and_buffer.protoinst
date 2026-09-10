@@ -1,0 +1,9 @@
+{
+	"version": "1.0",
+	"modules": {
+		"clock_and_buffer": {
+			"proto_instances": {
+			}
+		}
+	}
+}
